@@ -28,6 +28,3 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildFingerprint=samsung/r0qxx/gts8wifi:15/AP3A.240905.015.A2/X700XXS9DYF4:user/release-keys \
     DeviceProduct=r0q \
     SystemName=r0q
-duct=gts8wifi \
-    SystemName=gts8wifi
-gts8wifi
